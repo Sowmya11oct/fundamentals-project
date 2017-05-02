@@ -1,5 +1,5 @@
-# Basic Project
-## Basic Project Structure
+# Java Fundamentals Project
+# Lessons on Java core fundamentals
 
 *Default Structure for A Basic Project*
 
